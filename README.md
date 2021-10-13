@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @eduardoromeror9
 - 👀 I’m interested in learn development. 
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Python and JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me, @eduardor9 Twitter.
 
