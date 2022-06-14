@@ -11,7 +11,9 @@
 const eduardo = {
     pronouns: "He" | "Him",
     askMeAbout: ["web dev", "tech"],
+    code: [Javascript, HTML, CSS, Python],
     technologies:{
+        fronEnd: ["react"],
         backEnd: ["nodejs", "express", "python"],
         database: ["mongo","mySql", "postgreSQL"],
     }
