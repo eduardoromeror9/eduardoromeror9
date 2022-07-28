@@ -31,4 +31,4 @@ const eduardo = {
 - 👋 Hi, I’m @eduardoromeror9
 - 👀 I’m interested in learn development.
 - 🌱 I’m currently learning Python and JavaScript
-- 📫 How to reach me, eduardoromeror9@outlook.com Outlook.
+- 📫 How to reach me, eduardoromeror9@gmail.com Gmail.
