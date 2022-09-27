@@ -13,9 +13,9 @@ const eduardo = {
   askMeAbout: ["web dev", "tech"],
   code: ['Javascript', 'Python'],
   technologies:{
-      fronEnd: ["react"],
-      backEnd: ["nodejs", "express", "python"],
-      database: ["mongo","mySql", "postgreSQL"],
+    fronEnd: ["react"],
+    backEnd: ["nodejs", "express", "python"],
+    database: ["mongo","mySql", "postgreSQL"],
   }
 }
 ```
