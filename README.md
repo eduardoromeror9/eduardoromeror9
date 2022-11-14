@@ -14,7 +14,7 @@ const eduardo = {
   code: ['Javascript', 'Python'],
   technologies:{
     fronEnd: ["react"],
-    backEnd: ["nodejs", "express", "python"],
+    backEnd: ["nodejs", "express", "Django"],
     database: ["mongo","mySql", "postgreSQL"],
   }
 }
