@@ -32,5 +32,6 @@ const eduardo = {
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white)
+![](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white)
 
 ---
