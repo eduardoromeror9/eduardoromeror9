@@ -13,7 +13,7 @@ const eduardo = {
   askMeAbout: ["web dev", "tech"],
   code: ['Python', 'JavaScript'],
   technologies:{
-    fronEnd: ["react"],
+    frontEnd: ["react"],
     backEnd: ["nodejs", "express", "Django"],
     database: ["mongo","mySql", "postgreSQL"],
   }
