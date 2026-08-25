@@ -11,7 +11,7 @@
 const eduardo = {
   pronouns: ["He", "Him"],
   askMeAbout: ["web dev", "tech"],
-  code: ['Javascript', 'Python'],
+  code: ['Python', 'JavaScript'],
   technologies:{
     fronEnd: ["react"],
     backEnd: ["nodejs", "express", "Django"],
@@ -19,7 +19,7 @@ const eduardo = {
   }
 }
 ```
-⭐️ From [@eduardoromeror9](https://www.linkedin.com/in/eduardor9/)
+⭐️ From [@eduardoromeror9](https://webeduardor9.netlify.app/)
 ---
 
 
