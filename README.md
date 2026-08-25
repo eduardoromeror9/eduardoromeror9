@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Eduardo 👋</h1>
 
 <h3 align="center">
-Backend Developer | AI & Automation Enthusiast
+Backend Developer | AI Generativa
 </h3>
 
 <p align="center">
