@@ -26,3 +26,10 @@ const eduardo = {
 - 👀 I’m interested in learn development.
 - 🌱 I’m currently learning Python and JavaScript
 - 📫 How to reach me, eduardoromeror9@gmail.com Gmail.
+
+---
+
+[![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+[![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+
+---
